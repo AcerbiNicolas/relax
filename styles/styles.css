@@ -1,0 +1,42 @@
+body {
+    background-color: lightgray;
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  #timer {
+    font-size: 40px;
+    margin: 20px 0;
+  }
+  button {
+    padding: 10px 20px;
+    font-size: 20px;
+    margin: 10px;
+    width: 150px;
+    border-radius: 5px;
+  }
+  #start-btn {
+    background-color: green;
+    color: white;
+  }
+  #pause-btn {
+    background-color: yellow;
+    color: black;
+  }
+  #resume-btn {
+    background-color: blue;
+    color: white;
+  }
+  #stop-btn {
+    background-color: red;
+    color: white;
+  }
+  table {
+    margin: 20px auto;
+    border-collapse: collapse;
+  }
+  th,
+  td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: left;
+  }
